@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mona Borham on SwEngin :unicorn: :alien:</title>
+    <link>https://swengin.io/</link>
+    <description>Recent content in Mona Borham on SwEngin :unicorn: :alien:</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 16:15:09 +0800</lastBuildDate><atom:link href="https://swengin.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Duck Typing</title>
+      <link>https://swengin.io/posts/post-with-featured-image/</link>
+      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+      
+      <guid>https://swengin.io/posts/post-with-featured-image/</guid>
+      <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
+For example:
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+    </item>
+    
+    <item>
+      <title>Post With Featured Image</title>
+      <link>https://swengin.io/posts/ko/</link>
+      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+      
+      <guid>https://swengin.io/posts/ko/</guid>
+      <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
+For example:
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://swengin.io/about-me/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://swengin.io/about-me/</guid>
+      <description>Hi there, I&amp;rsquo;m a Software Architect and Cloud Native Engineer with 13 years of experience. I help our clients from different branches in their Digital Transformation and Cloud Native journey. I started my career as a developer working with different technologies, but focusing mainly on Java. During the time I was interested and working side by side on DevOps and System Administration matters, as I&amp;rsquo;m a Linux user and admin and was Network+ certified.</description>
+    </item>
+    
+  </channel>
+</rss>
