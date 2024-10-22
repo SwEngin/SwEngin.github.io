@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SwEngin.io</title>
-    <link>http://localhost:1313/</link>
+    <link>https://swengin.io/</link>
     <description>Recent content on SwEngin.io</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://swengin.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about-me/</link>
+      <link>https://swengin.io/about-me/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about-me/</guid>
-      <description>&lt;figure class=&#34;about-me&#34; &gt;&lt;picture&gt;&#xA;          &lt;source srcset=&#34;http://localhost:1313/images/img1_hu5770251878076038842.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;          &lt;source srcset=&#34;http://localhost:1313/images/img1_hu7734527052974276638.jpg&#34; type=&#34;image/jpeg&#34;&gt;&#xA;          &lt;img src=&#34;http://localhost:1313/images/img1_hu5770251878076038842.webp&#34;alt=&#34;Mona Borham&#34;  width=&#34;2852&#34;  height=&#34;1994&#34; /&gt;&#xA;        &lt;/picture&gt;&lt;/figure&gt;&#xA;&lt;p&gt;With 17 years of dynamic experience as a Software Architect, I specialize in delivering cutting-edge solutions that empower enterprises to modernize through digital transformation. I’ve successfully led software projects across industries such as public sector, banking, automotive, and retail, working with clients in the EU, UK, and USA. My approach focuses on understanding customer pain points, including legacy system bottlenecks, inefficiencies in cloud adoption, and challenges in AI integration.&lt;/p&gt;</description>
+      <guid>https://swengin.io/about-me/</guid>
+      <description>&lt;figure class=&#34;about-me&#34; &gt;&lt;picture&gt;&#xA;          &lt;source srcset=&#34;https://swengin.io/images/img1_hu5770251878076038842.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;          &lt;source srcset=&#34;https://swengin.io/images/img1_hu7734527052974276638.jpg&#34; type=&#34;image/jpeg&#34;&gt;&#xA;          &lt;img src=&#34;https://swengin.io/images/img1_hu5770251878076038842.webp&#34;alt=&#34;Mona Borham&#34;  width=&#34;2852&#34;  height=&#34;1994&#34; /&gt;&#xA;        &lt;/picture&gt;&lt;/figure&gt;&#xA;&lt;p&gt;With 17 years of dynamic experience as a Software Architect, I specialize in delivering cutting-edge solutions that empower enterprises to modernize through digital transformation. I’ve successfully led software projects across industries such as public sector, banking, automotive, and retail, working with clients in the EU, UK, and USA. My approach focuses on understanding customer pain points, including legacy system bottlenecks, inefficiencies in cloud adoption, and challenges in AI integration.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
