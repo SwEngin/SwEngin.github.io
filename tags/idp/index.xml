@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IDP on SwEngin.io</title>
+    <link>https://swengin.io/tags/idp/</link>
+    <description>Recent content in IDP on SwEngin.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Oct 2024 16:15:09 +0800</lastBuildDate>
+    <atom:link href="https://swengin.io/tags/idp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide to Launching a User-Centric Platform</title>
+      <link>https://swengin.io/posts/platform-initiative/</link>
+      <pubDate>Sun, 20 Oct 2024 16:15:09 +0800</pubDate>
+      <guid>https://swengin.io/posts/platform-initiative/</guid>
+      <description>&lt;p&gt;In my experience working with both current and past clients, I&amp;rsquo;ve seen a common need emerge in digital transformation efforts: a drive to move beyond software and application-centric initiatives. Initially, digital transformation revolved around modernizing individual applications to improve flexibility and speed. But as companies grow increasingly reliant on software to power their business, they’re encountering a major challenge: scaling effectively to meet demand while enabling efficiency and agility across the entire organization.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

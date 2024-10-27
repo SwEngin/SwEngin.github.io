@@ -1,0 +1,64 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on SwEngin.io</title>
+		<link>https://swengin.io/posts/</link>
+		<description>Recent content in Posts on SwEngin.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<lastBuildDate>Sun, 20 Oct 2024 16:15:09 +0800</lastBuildDate>
+		<atom:link href="https://swengin.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Guide to Launching a User-Centric Platform</title>
+			<link>https://swengin.io/posts/platform-initiative/</link>
+			<pubDate>Sun, 20 Oct 2024 16:15:09 +0800</pubDate>
+			
+			<guid>https://swengin.io/posts/platform-initiative/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>In my experience working with both current and past clients, I&rsquo;ve seen a common need emerge in digital transformation efforts: a drive to move beyond software and application-centric initiatives. Initially, digital transformation revolved around modernizing individual applications to improve flexibility and speed. But as companies grow increasingly reliant on software to power their business, they’re encountering a major challenge: scaling effectively to meet demand while enabling efficiency and agility across the entire organization.</p>
+<p>To meet modern demands, organizations must now look beyond isolated applications and embrace a unified approach to infrastructure standardization. By doing so, they gain visibility and control over security, privacy, governance, and compliance—all critical in today’s regulatory landscape. Platform engineering, in particular, builds on DevOps by providing reusable abstractions and services, reducing cognitive load on developers and enabling faster, more streamlined development, which is supported by the most recent Dora findings <a href="https://cloud.google.com/resources/devops/state-of-devops">this year</a>.</p>
+<blockquote>
+<p>A digital platform is a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced co-ordination. <em><strong>Evan Botcher, 2018</strong></em></p>
+</blockquote>
+<p>Creating a compelling, user-centric platform requires starting with thorough user base research to ensure it addresses the teams’ most fundamental needs. Here’s a step-by-step approach to launching a platform initiative focused on usability, engagement, and strategic adoption.</p>
+<h2 id="1-starting-with-user-research-understanding-team-needs">1. Starting with User Research: Understanding Team Needs</h2>
+<p>A platform initiative must begin by identifying and understanding the primary users&rsquo; needs—the development and delivery teams who will rely on it. Effective user research is essential to ensure the platform offers capabilities that solve real problems for these teams, making it an indispensable resource rather than just an added tool.</p>
+<h3 id="key-steps-in-user-research">Key Steps in User Research:</h3>
+<ul>
+<li>Conduct Interviews and Surveys: Engage directly with developers, QA engineers, DevOps staff, and other relevant team members to learn about their workflows, pain points, and critical needs.</li>
+<li>Focus on Key Pain Points: Identify any manual tasks, bottlenecks, or repetitive efforts they face and assess which tools and services could eliminate these issues.</li>
+<li>Observe Workflows: Shadow teams to see how they operate within existing systems. Observe where they struggle or where high levels of coordination with other teams slow down delivery.</li>
+<li>Identify Baseline Metrics: Determine current deployment times, failure rates, and other performance indicators. This baseline will guide the initial features of the platform and help measure the impact over time.</li>
+<li>Prioritize Foundational Capabilities: Based on your findings, identify essential capabilities that could streamline processes across teams. These foundational capabilities form the core of the platform, catering to the most common or critical functionality.</li>
+</ul>
+<p>By gathering and analyzing these insights, you create a platform that resonates with users from the beginning, ensuring it is built to solve real problems and meets teams&rsquo; core needs effectively.</p>
+<h2 id="2-defining-capabilities-and-building-for-early-impact">2. Defining Capabilities and Building for Early Impact</h2>
+<p>After understanding the user base, the next step is to define the platform’s initial capabilities. These should provide common foundations for essential functionalities—tools or services critical for improving delivery speed and coordination across teams.</p>
+<h3 id="steps-to-define-and-prioritize-capabilities">Steps to Define and Prioritize Capabilities:</h3>
+<ul>
+<li>Identify High-Impact Capabilities: Start by implementing capabilities that have an immediate and visible impact on reducing repetitive tasks or enabling faster deployments (e.g., CI/CD pipelines, or containerized infrastructure).</li>
+<li>Build with Scalability in Mind: The platform should be modular, allowing new capabilities to be added as it grows. This helps accommodate diverse user needs without creating a monolithic structure.</li>
+<li>Ensure Maintenance and Support: As you build the platform, include knowledge-sharing resources, support channels, and documentation. This empowers teams to leverage the platform fully and reduces friction during onboarding.</li>
+</ul>
+<p>These foundational capabilities serve as the backbone of the platform, providing value that drives initial engagement and motivates teams to adopt it.</p>
+<h2 id="3-selecting-teams-for-the-pilot-and-choosing-early-adopters">3. Selecting Teams for the Pilot and Choosing Early Adopters</h2>
+<p>Once the core capabilities are in place, it’s time to select early adopters who will pilot the platform. Selecting the right teams is crucial, as they will set the standard for how the platform is perceived and help refine its functionalities based on feedback.</p>
+<h3 id="criteria-for-selecting-early-adopter-teams">Criteria for Selecting Early Adopter Teams:</h3>
+<ul>
+<li>High Dependency on Platform Capabilities: Choose teams whose workflows align closely with the platform’s initial capabilities.</li>
+<li>Willingness to Experiment: Early adopters should be open to experimenting with new tools and workflows. Teams that embrace change and seek efficiency improvements are more likely to provide constructive feedback.</li>
+<li>Influence and Visibility: Pick teams that are respected within the organization and have high visibility. Positive results from these teams will encourage broader adoption and increase the platform’s credibility.</li>
+<li>Diverse Use Cases: Select teams with a range of needs and project types, allowing you to test the platform’s flexibility and scalability early. This diversity ensures that the platform can handle different scenarios and prevents feature creep that may arise from catering to only one type of user.</li>
+</ul>
+<h3 id="onboarding-early-adopter-teams">Onboarding Early Adopter Teams:</h3>
+<ul>
+<li>Provide Dedicated Support: Assign platform engineers or product managers to support early adopters closely. This ensures smooth onboarding, and any issues they encounter can be resolved swiftly.</li>
+<li>Encourage Open Feedback Loops: Establish regular feedback sessions to gather insights on the platform’s functionality, performance, and user experience. Use this feedback to refine and improve the platform iteratively.</li>
+<li>Highlight Quick Wins: Identify and communicate quick wins to demonstrate the platform’s value. For instance, if a team’s deployment time decreases by 20%, showcase this success to build enthusiasm.</li>
+</ul>
+<p>Launching a platform initiative is about more than just building tools; it’s about delivering a compelling internal product that meets the needs of its users and drives organizational efficiency. By starting with user research, prioritizing foundational capabilities, selecting influential early adopters, and refining the platform based on continuous feedback, you set the foundation for a platform that is truly valued across the organization, empowering teams to innovate and deliver at scale.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
