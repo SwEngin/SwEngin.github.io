@@ -6,8 +6,22 @@
     <description>Recent content in Tags on SwEngin.io</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Oct 2024 16:15:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 16:15:09 +0800</lastBuildDate>
     <atom:link href="https://swengin.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CloudNative</title>
+      <link>https://swengin.io/tags/cloudnative/</link>
+      <pubDate>Sun, 01 Dec 2024 16:15:09 +0800</pubDate>
+      <guid>https://swengin.io/tags/cloudnative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SDLC</title>
+      <link>https://swengin.io/tags/sdlc/</link>
+      <pubDate>Sun, 01 Dec 2024 16:15:09 +0800</pubDate>
+      <guid>https://swengin.io/tags/sdlc/</guid>
+      <description></description>
+    </item>
     <item>
       <title>IDP</title>
       <link>https://swengin.io/tags/idp/</link>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CloudNative on SwEngin.io</title>
+    <link>https://swengin.io/tags/cloudnative/</link>
+    <description>Recent content in CloudNative on SwEngin.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2024 16:15:09 +0800</lastBuildDate>
+    <atom:link href="https://swengin.io/tags/cloudnative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empowering Developers Across the SDLC with Cloud-Native Tools</title>
+      <link>https://swengin.io/posts/sdlc-supporting-cloud-native-tools/</link>
+      <pubDate>Sun, 01 Dec 2024 16:15:09 +0800</pubDate>
+      <guid>https://swengin.io/posts/sdlc-supporting-cloud-native-tools/</guid>
+      <description>&lt;p&gt;The cloud-native ecosystem, supported by the Cloud Native Computing Foundation (CNCF), offers a comprehensive toolkit for optimizing every phase of the Software Development Lifecycle (SDLC). These tools empower developers to build scalable, resilient, and efficient applications by automating workflows, improving observability, and ensuring security. Here’s a closer look at these tools and their significance across the SDLC.&lt;/p&gt;&#xA;&lt;h1 id=&#34;1-planning-and-collaboration&#34;&gt;1. Planning and Collaboration&lt;/h1&gt;&#xA;&lt;h2 id=&#34;backstage&#34;&gt;Backstage&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;What it does:&lt;/strong&gt; Backstage centralizes APIs, services, and documentation into a unified developer portal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
