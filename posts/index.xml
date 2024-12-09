@@ -26,6 +26,11 @@
 <p><strong>What it does:</strong> Dapr abstracts distributed system complexities, providing reusable APIs for tasks like service invocation and state management.</p>
 <p><strong>Importance:</strong> It enables developers to focus on business logic while supporting multi-cloud portability.</p>
 <p><strong>CNCF Status:</strong> Graduated CNCF project (October 2024)</p>
+<h1 id="3-feature-management">3. Feature Management</h1>
+<h2 id="openfeature">OpenFeature</h2>
+<p><strong>What it does:</strong> A vendor-agnostic feature flag management framework that integrates with various cloud-native environments.</p>
+<p><strong>Importance:</strong> Provides a standardized approach to feature flagging, enabling developers to roll out features incrementally, perform canary deployments, and run A/B tests without disrupting users.</p>
+<p><strong>CNCF Status:</strong> Incubating CNCF project (since September 2022).</p>
 <h1 id="3-testing">3. Testing</h1>
 <h2 id="testcontainers">Testcontainers</h2>
 <p><strong>What it does:</strong> Provides containerized environments for integration tests.</p>
