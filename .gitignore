@@ -1,0 +1,12 @@
+# Hugo-generated stats for Tailwind
+hugo_stats.json
+
+.vscode/
+*.swp
+*~
+Thumbs.db
+desktop.ini
+.hugo_build.lock
+.env.*
+config.local.toml
+.DS_Store
